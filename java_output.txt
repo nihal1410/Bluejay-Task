@@ -1,0 +1,13 @@
+Employees with 7 consecutive days:
+None
+Employees with less than 10 hours but more than 1 hour between shifts:
+WFS000153 - Active
+WFS000523 - Active
+WFS000536 - Active
+WFS000550 - Active
+WFS000345 - Active
+WFS000200 - Active
+WFS000456 - Active
+WFS000318 - Active
+Employees with shifts longer than 14 hours:
+WFS000523 - Active
