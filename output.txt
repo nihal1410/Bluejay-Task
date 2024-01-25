@@ -1,0 +1,10 @@
+Employees with 7 consecutive days:
+
+Employees with less than 10 hours but more than 1 hour between shifts:
+CaMaXaWE, CeghaW - WFS000153
+HaCiXMEW, DeaWMe DevEW - WFS000536
+Xee, XaCar - WFS000200
+DeXgadiXXE REdarMe, ChrisMiaW S - WFS000523
+
+Employees with shifts longer than 14 hours:
+DeXgadiXXE REdarMe, ChrisMiaW S - WFS000523
